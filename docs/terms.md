@@ -178,7 +178,7 @@ Questions about these Terms? Contact us at:
 
 ## 18. App Information
 
-- App:** ColorCargo
+- **App:** ColorCargo
 - **Developer:** Onur Akçakavak
-- **Contact: [onuragames@gmail.com](mailto:onuragames@gmail.com)
-- Effective Date:** June 1, 2026
+- **Contact:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
+- **Effective Date:** June 1, 2026

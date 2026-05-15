@@ -6,9 +6,10 @@ A color-matching puzzle game where you deliver tiles to same-color rings, one mo
 
 ---
 
-**Version {{VERSION_SHORT}} ({{VERSION_BUILD}})**
+**Version 1.0 (1)**
 
 **Developer:** Onur Akçakavak
+
 **Support:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
 
 ---
