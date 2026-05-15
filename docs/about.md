@@ -9,15 +9,15 @@ A color-matching puzzle game where you deliver tiles to same-color rings, one mo
 **Version {{VERSION_SHORT}} ({{VERSION_BUILD}})**
 
 **Developer:** Onur Akçakavak
-**Support:** onuragames@gmail.com
+**Support:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
 
 ---
 
 ## Legal
 
-- [Privacy Policy](colorcargo://privacy)
-- [Terms of Service](colorcargo://terms)
-- [Report Ad](colorcargo://report-ad)
+- [Privacy Policy](privacy.html)
+- [Terms of Service](terms.html)
+- [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20Ad%20Report)
 
 ---
 

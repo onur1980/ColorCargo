@@ -10,7 +10,7 @@ By downloading, installing, or using **ColorCargo** ("the App", "we", "us"), you
 
 These Terms operate **alongside Apple's Standard End User License Agreement** (available in the App Store) and the **Apple Media Services Terms**. To the extent of any conflict regarding the App Store, Family Sharing, or in-app purchases, the Apple terms control.
 
-You also acknowledge that you have read and understood our [Privacy Policy](colorcargo://privacy) (also available in Settings → Privacy Policy), which is incorporated by reference into these Terms.
+You also acknowledge that you have read and understood our [Privacy Policy](privacy.html) (also available in Settings → Privacy Policy), which is incorporated by reference into these Terms.
 
 ---
 
@@ -40,9 +40,9 @@ Violation may result in suspension or termination of your license to use the App
 
 ## 4. Advertisements
 
-The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. You may opt out of personalized ad tracking via Apple's App Tracking Transparency (ATT) — see the [Privacy Policy](colorcargo://privacy) for details.
+The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. You may opt out of personalized ad tracking via Apple's App Tracking Transparency (ATT) — see the [Privacy Policy](privacy.html) for details.
 
-If you encounter an inappropriate or age-inappropriate ad, please use the **[Report Ad](colorcargo://report-ad)** function in Settings (Apple App Store Guideline 2.5.18).
+If you encounter an inappropriate or age-inappropriate ad, please use the **[Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20Ad%20Report)** function in Settings (Apple App Store Guideline 2.5.18).
 
 ---
 
@@ -50,7 +50,7 @@ If you encounter an inappropriate or age-inappropriate ad, please use the **[Rep
 
 The App is **free to download**. It may offer **optional in-app purchases** for non-essential conveniences — for example, **removing advertisements** or **skipping difficult levels**. Where in-app purchases are available, the following terms apply:
 
-- All purchases are processed **exclusively through Apple's App Store In-App Purchase system**. We do **not** collect, store, or process your payment card data ourselves — see [Privacy Policy](colorcargo://privacy) Section 2 for what is (and is not) received from Apple.
+- All purchases are processed **exclusively through Apple's App Store In-App Purchase system**. We do **not** collect, store, or process your payment card data ourselves — see [Privacy Policy](privacy.html) Section 2 for what is (and is not) received from Apple.
 - All purchases are **final and non-refundable** except as required by Apple's published refund policies, mandatory consumer-protection laws, or App Store cancellation/refund provisions.
 - A **"Restore Purchases"** function is available in Settings for restorable purchases, where applicable under Apple's StoreKit framework.
 - In-app purchases are **optional**: all core gameplay remains accessible without spending money.
@@ -63,7 +63,7 @@ The App, including all game design, source code, graphics, level layouts, charac
 
 **Gameplay content sharing:** You retain rights to gameplay screenshots, recordings, and live streams you create. You may share such content publicly — including on monetized platforms such as YouTube, TikTok, Twitch, Instagram, and similar services — **provided that you do not (i) misleadingly present the content as official, (ii) infringe third-party rights, or (iii) use ColorCargo branding to imply endorsement of unrelated products**. Attribution to "ColorCargo" is appreciated but not required.
 
-If you believe content in or related to the App infringes your intellectual property, contact us at **onuragames@gmail.com** with sufficient detail for us to investigate.
+If you believe content in or related to the App infringes your intellectual property, contact us at [**onuragames@gmail.com**](mailto:onuragames@gmail.com) with sufficient detail for us to investigate.
 
 ---
 
@@ -111,7 +111,7 @@ Sections that by their nature should survive termination (Intellectual Property,
 
 ## 10. Children and Parental Consent
 
-ColorCargo is designed as a **general-audience puzzle game** and is intended to meet a **4+ age rating** in the App Store. It is **not primarily directed to children under 13** (see [Privacy Policy](colorcargo://privacy) Section 7).
+ColorCargo is designed as a **general-audience puzzle game** and is intended to meet a **4+ age rating** in the App Store. It is **not primarily directed to children under 13** (see [Privacy Policy](privacy.html) Section 7).
 
 If you are a **minor** under the age of majority in your jurisdiction, you may use the App **only with the consent of a parent or legal guardian**, and your parent or guardian accepts these Terms on your behalf.
 
@@ -146,7 +146,7 @@ We may **assign** these Terms and our rights and obligations under them — in w
 
 ## 14. Entire Agreement
 
-These Terms, **together with the [Privacy Policy](colorcargo://privacy)** and **Apple's Standard End User License Agreement and Media Services Terms**, constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
+These Terms, **together with the [Privacy Policy](privacy.html)** and **Apple's Standard End User License Agreement and Media Services Terms**, constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
 
 Our failure to enforce any right or provision of these Terms is not a waiver of that right or provision.
 
@@ -172,7 +172,7 @@ The **United Nations Convention on Contracts for the International Sale of Goods
 
 Questions about these Terms? Contact us at:
 
-**onuragames@gmail.com**
+[**onuragames@gmail.com**](mailto:onuragames@gmail.com)
 
 ---
 
@@ -180,5 +180,5 @@ Questions about these Terms? Contact us at:
 
 - **App:** ColorCargo
 - **Developer:** Onur Akçakavak
-- **Contact:** onuragames@gmail.com
+- **Contact:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
 - **Effective Date:** June 1, 2026
