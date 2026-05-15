@@ -42,7 +42,7 @@ Violation may result in suspension or termination of your license to use the App
 
 The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. You may opt out of personalized ad tracking via Apple's App Tracking Transparency (ATT) — see the [Privacy Policy](privacy.html) for details.
 
-If you encounter an inappropriate or age-inappropriate ad, please use the **[Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20Ad%20Report)** function in Settings (Apple App Store Guideline 2.5.18).
+If you encounter an inappropriate or age-inappropriate ad, please use the **[Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21)** function in Settings (Apple App Store Guideline 2.5.18).
 
 ---
 
@@ -63,7 +63,7 @@ The App, including all game design, source code, graphics, level layouts, charac
 
 **Gameplay content sharing:** You retain rights to gameplay screenshots, recordings, and live streams you create. You may share such content publicly — including on monetized platforms such as YouTube, TikTok, Twitch, Instagram, and similar services — **provided that you do not (i) misleadingly present the content as official, (ii) infringe third-party rights, or (iii) use ColorCargo branding to imply endorsement of unrelated products**. Attribution to "ColorCargo" is appreciated but not required.
 
-If you believe content in or related to the App infringes your intellectual property, contact us at [**onuragames@gmail.com**](mailto:onuragames@gmail.com) with sufficient detail for us to investigate.
+If you believe content in or related to the App infringes your intellectual property, contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with sufficient detail for us to investigate.
 
 ---
 
@@ -172,7 +172,7 @@ The **United Nations Convention on Contracts for the International Sale of Goods
 
 Questions about these Terms? Contact us at:
 
-[**onuragames@gmail.com**](mailto:onuragames@gmail.com)
+[onuragames@gmail.com](mailto:onuragames@gmail.com)
 
 ---
 
