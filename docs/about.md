@@ -9,7 +9,7 @@ A color-matching puzzle game where you deliver tiles to same-color rings, one mo
 **Version {{VERSION_SHORT}} ({{VERSION_BUILD}})**
 
 **Developer:** Onur Akçakavak
-**Support: [onuragames@gmail.com](mailto:onuragames@gmail.com)
+**Support:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
 
 ---
 
@@ -23,7 +23,7 @@ A color-matching puzzle game where you deliver tiles to same-color rings, one mo
 
 ## Credits
 
-- Game design & development:** Onur Akçakavak
+- **Game design & development:** Onur Akçakavak
 - **Built with:** Apple SpriteKit
 - **Ad mediation:** Unity LevelPlay
 
