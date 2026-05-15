@@ -8,7 +8,7 @@
 
 By downloading, installing, or using **ColorCargo** ("the App", "we", "us"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree, please do not use the App and uninstall it.
 
-These Terms operate **alongside Apple's Standard End User License Agreement** (available in the App Store) and the **Apple Media Services Terms**. To the extent of any conflict regarding the App Store, Family Sharing, or in-app purchases, the Apple terms control.
+These Terms operate **alongside Apple's Standard End User License Agreement** (available in the App Store) and the **Apple Media Services Terms. To the extent of any conflict regarding the App Store, Family Sharing, or in-app purchases, the Apple terms control.
 
 You also acknowledge that you have read and understood our [Privacy Policy](privacy.html) (also available in Settings → Privacy Policy), which is incorporated by reference into these Terms.
 
@@ -16,7 +16,7 @@ You also acknowledge that you have read and understood our [Privacy Policy](priv
 
 ## 2. License Grant
 
-We grant you a **personal, limited, non-exclusive, non-transferable, revocable license** to install and use the App on **Apple-branded products that you own or control**, as permitted by the App Store **Usage Rules**, including Family Sharing and volume purchasing programs where applicable.
+We grant you a personal, limited, non-exclusive, non-transferable, revocable license** to install and use the App on **Apple-branded products that you own or control**, as permitted by the App Store **Usage Rules**, including Family Sharing and volume purchasing programs where applicable.
 
 This license is for **personal entertainment use**, including private and home use, and reasonable creator/social sharing of gameplay (see Section 6).
 
@@ -40,7 +40,7 @@ Violation may result in suspension or termination of your license to use the App
 
 ## 4. Advertisements
 
-The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. You may opt out of personalized ad tracking via Apple's App Tracking Transparency (ATT) — see the [Privacy Policy](privacy.html) for details.
+The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads upgrade or ads are otherwise disabled. You may opt out of personalized ad tracking via Apple's App Tracking Transparency (ATT) — see the [Privacy Policy](privacy.html) for details.
 
 If you encounter an inappropriate or age-inappropriate ad, please use the [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) function in Settings (Apple App Store Guideline 2.5.18).
 
@@ -48,10 +48,10 @@ If you encounter an inappropriate or age-inappropriate ad, please use the [Repor
 
 ## 5. In-App Purchases
 
-The App is **free to download**. It may offer **optional in-app purchases** for non-essential conveniences — for example, **removing advertisements** or **skipping difficult levels**. Where in-app purchases are available, the following terms apply:
+The App is free to download**. It may offer **optional in-app purchases** for non-essential conveniences — for example, **removing advertisements** or **skipping difficult levels**. Where in-app purchases are available, the following terms apply:
 
-- All purchases are processed **exclusively through Apple's App Store In-App Purchase system**. We do **not** collect, store, or process your payment card data ourselves — see [Privacy Policy](privacy.html) Section 2 for what is (and is not) received from Apple.
-- All purchases are **final and non-refundable** except as required by Apple's published refund policies, mandatory consumer-protection laws, or App Store cancellation/refund provisions.
+- All purchases are processed **exclusively through Apple's App Store In-App Purchase system**. We do **not collect, store, or process your payment card data ourselves — see [Privacy Policy](privacy.html) Section 2 for what is (and is not) received from Apple.
+- All purchases are final and non-refundable** except as required by Apple's published refund policies, mandatory consumer-protection laws, or App Store cancellation/refund provisions.
 - A **"Restore Purchases"** function is available in Settings for restorable purchases, where applicable under Apple's StoreKit framework.
 - In-app purchases are **optional**: all core gameplay remains accessible without spending money.
 
@@ -61,7 +61,7 @@ The App is **free to download**. It may offer **optional in-app purchases** for 
 
 The App, including all game design, source code, graphics, level layouts, character designs, and brand assets ("ColorCargo" name and logo), is the intellectual property of **Onur Akçakavak** and is protected by copyright, trademark, and related laws.
 
-**Gameplay content sharing:** You retain rights to gameplay screenshots, recordings, and live streams you create. You may share such content publicly — including on monetized platforms such as YouTube, TikTok, Twitch, Instagram, and similar services — **provided that you do not (i) misleadingly present the content as official, (ii) infringe third-party rights, or (iii) use ColorCargo branding to imply endorsement of unrelated products**. Attribution to "ColorCargo" is appreciated but not required.
+**Gameplay content sharing:** You retain rights to gameplay screenshots, recordings, and live streams you create. You may share such content publicly — including on monetized platforms such as YouTube, TikTok, Twitch, Instagram, and similar services — **provided that you do not (i) misleadingly present the content as official, (ii) infringe third-party rights, or (iii) use ColorCargo branding to imply endorsement of unrelated products. Attribution to "ColorCargo" is appreciated but not required.
 
 If you believe content in or related to the App infringes your intellectual property, contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with sufficient detail for us to investigate.
 
@@ -69,7 +69,7 @@ If you believe content in or related to the App infringes your intellectual prop
 
 ## 7. Disclaimer of Warranties
 
-The App is provided **"AS IS"** and **"AS AVAILABLE"** without warranties of any kind, express or implied, including but not limited to:
+The App is provided "AS IS"** and **"AS AVAILABLE"** without warranties of any kind, express or implied, including but not limited to:
 
 - Warranties of merchantability or fitness for a particular purpose
 - That the App will be uninterrupted, error-free, secure, or available at any specific time
@@ -111,9 +111,9 @@ Sections that by their nature should survive termination (Intellectual Property,
 
 ## 10. Children and Parental Consent
 
-ColorCargo is designed as a **general-audience puzzle game** and is intended to meet a **4+ age rating** in the App Store. It is **not primarily directed to children under 13** (see [Privacy Policy](privacy.html) Section 7).
+ColorCargo is designed as a **general-audience puzzle game** and is intended to meet a **4+ age rating** in the App Store. It is **not primarily directed to children under 13 (see [Privacy Policy](privacy.html) Section 7).
 
-If you are a **minor** under the age of majority in your jurisdiction, you may use the App **only with the consent of a parent or legal guardian**, and your parent or guardian accepts these Terms on your behalf.
+If you are a minor** under the age of majority in your jurisdiction, you may use the App **only with the consent of a parent or legal guardian**, and your parent or guardian accepts these Terms on your behalf.
 
 Parents and guardians can restrict purchasing, ad personalization, and screen time via **iOS Settings → Screen Time → Content & Privacy Restrictions** and **Family Sharing parental controls**.
 
@@ -146,7 +146,7 @@ We may **assign** these Terms and our rights and obligations under them — in w
 
 ## 14. Entire Agreement
 
-These Terms, **together with the [Privacy Policy](privacy.html)** and **Apple's Standard End User License Agreement and Media Services Terms**, constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
+These Terms, together with the [Privacy Policy](privacy.html) and **Apple's Standard End User License Agreement and Media Services Terms**, constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
 
 Our failure to enforce any right or provision of these Terms is not a waiver of that right or provision.
 
@@ -164,7 +164,7 @@ These Terms are governed by the laws of the **Republic of Türkiye**, without re
 
 Any dispute arising out of or related to these Terms shall be resolved before the **competent courts and authorities of the Republic of Türkiye**, unless otherwise required by mandatory consumer-protection laws of your country of residence, which take precedence.
 
-The **United Nations Convention on Contracts for the International Sale of Goods (CISG)** does not apply.
+The **United Nations Convention on Contracts for the International Sale of Goods (CISG) does not apply.
 
 ---
 
@@ -178,7 +178,7 @@ Questions about these Terms? Contact us at:
 
 ## 18. App Information
 
-- **App:** ColorCargo
+- App:** ColorCargo
 - **Developer:** Onur Akçakavak
-- **Contact:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
-- **Effective Date:** June 1, 2026
+- **Contact: [onuragames@gmail.com](mailto:onuragames@gmail.com)
+- Effective Date:** June 1, 2026
