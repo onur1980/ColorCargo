@@ -8,7 +8,7 @@
 
 This Privacy Policy explains how ColorCargo ("the App", "we", "us") collects, uses, and protects information when you use our mobile puzzle game on iOS. We are committed to transparency, data minimization, and to keeping your privacy safe.
 
-ColorCargo is **intended for a 4+ age rating** in the Apple App Store and is **not primarily directed to children under 13**. The App is designed for general audiences and does not require account creation. We do not operate any server backend; we hold **no personal data about you on our infrastructure.
+ColorCargo is **intended for a 4+ age rating** in the Apple App Store and is **not primarily directed to children under 13**. The App is designed for general audiences and does not require account creation. We do not operate any server backend; we hold **no personal data about you** on our infrastructure.
 
 This Privacy Policy is reflected in the App Privacy Details disclosed on the App Store product page. We strive to keep both consistent.
 
@@ -20,7 +20,7 @@ For our Terms of Service, see [Terms of Service](terms.html).
 
 ### 2.1 Data we collect directly
 
-ColorCargo collects minimal data** from you. The following is **Data Not Linked to Your Identity** (Apple App Privacy terminology) and remains on your device only:
+ColorCargo collects **minimal data** from you. The following is **Data Not Linked to Your Identity** (Apple App Privacy terminology) and remains on your device only:
 
 - **Game progress**: Your current level, total moves, completed levels (stored locally on your device using iOS UserDefaults; **never transmitted to our servers**).
 - **Sound preferences**: Whether you have toggled sounds on/off (stored locally).
@@ -28,11 +28,11 @@ ColorCargo collects minimal data** from you. The following is **Data Not Linked 
 
 We **do not** collect: name, email, phone number, photos, contacts, location, health data, financial information, or any account credentials.
 
-**In-app purchases** (where offered) are processed entirely by **Apple via StoreKit**. The App receives, **on device only**, the **transaction status** (success or failure) and the **product identifier** of what you purchased; we **never receive your payment card details, billing address, or any Apple ID credentials**, and this information is **not transmitted to any server we operate. See [Terms of Service](terms.html) Section 5 for the terms governing purchases.
+**In-app purchases** (where offered) are processed entirely by **Apple via StoreKit**. The App receives, **on device only**, the **transaction status** (success or failure) and the **product identifier** of what you purchased; we **never receive your payment card details, billing address, or any Apple ID credentials**, and this information is **not transmitted to any server we operate**. See [Terms of Service](terms.html) Section 5 for the terms governing purchases.
 
 ### 2.2 Data collected by third-party advertising networks
 
-ColorCargo displays advertisements provided by third-party ad networks** through the **Unity LevelPlay** mediation platform. These networks may collect the following categories, which align with Apple's App Privacy Details labels:
+ColorCargo displays advertisements provided by **third-party ad networks** through the **Unity LevelPlay** mediation platform. These networks may collect the following categories, which align with Apple's App Privacy Details labels:
 
 - **Identifiers** — Advertising Identifier (IDFA, only if you grant ATT permission), Identifier for Vendor (IDFV), and other device IDs as permitted by Apple
 - **Device Information** — device model, iOS version, screen size, system language, timezone, mobile carrier (where exposed)
@@ -40,7 +40,7 @@ ColorCargo displays advertisements provided by third-party ad networks** through
 - **Usage Data** — ad interaction events (impressions, clicks, view completions, skip events, dwell time)
 - **Diagnostics** — crash and performance data internal to each ad SDK
 
-The ad mediation platform integrated at launch is listed below. **Unity LevelPlay** serves advertisements from Unity's own demand sources (including the **ironSource Exchange**) and may include additional partner networks where enabled. **Additional ad networks may be enabled in future updates**; if so, this Privacy Policy will be revised and the change highlighted in the App's release notes. Active partners at any given time are determined by our **mediation configuration and bundled SDKs**; the `SKAdNetworkIdentifiers` entries in our `Info.plist` record the **broader set of attribution partners we are registered with at Apple to support potential future activations.
+The ad mediation platform integrated at launch is listed below. **Unity LevelPlay** serves advertisements from Unity's own demand sources (including the **ironSource Exchange**) and may include additional partner networks where enabled. **Additional ad networks may be enabled in future updates**; if so, this Privacy Policy will be revised and the change highlighted in the App's release notes. Active partners at any given time are determined by our **mediation configuration and bundled SDKs**; the `SKAdNetworkIdentifiers` entries in our `Info.plist` record the **broader set of attribution partners** we are registered with at Apple to support potential future activations.
 
 | Ad mediation platform | Privacy Policy |
 |---|---|
@@ -50,7 +50,7 @@ Apple's [SKAdNetwork](https://developer.apple.com/documentation/storekit/skadnet
 
 ### 2.3 Apple App Tracking Transparency (ATT)
 
-On iOS 14.5 and later, you will see a system prompt asking whether ColorCargo (and its ad partners) may track you across other companies' apps and websites**.
+On iOS 14.5 and later, you will see a system prompt asking whether ColorCargo (and its ad partners) may **track you across other companies' apps and websites**.
 
 - **If you grant ATT permission:** ad networks may use your IDFA to deliver personalized advertising.
 - **If you deny ATT permission (or it is restricted by parental controls):** the IDFA is **not** made available to us or to our ad partners. We do **not** use device fingerprinting or any other indirect method to track you across other companies' apps and websites. The App continues to work fully; ads still appear, but they are **contextual or non-personalized** rather than tailored to you.
@@ -87,14 +87,14 @@ We do **not** share data with: data brokers, social-media platforms (unless you 
 
 We do **not sell your personal information for monetary compensation**. Under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA), our disclosure of limited device and ad-interaction data to ad partners for cross-context behavioral advertising may qualify as "sharing." You can opt out of this "sharing" at any time by:
 
-1. **Denying the App Tracking Transparency prompt** when shown, or revoking it later in iOS Settings → Privacy & Security → Tracking → ColorCargo, **or
+1. **Denying the App Tracking Transparency prompt** when shown, or revoking it later in iOS Settings → Privacy & Security → Tracking → ColorCargo, **or**
 2. Contacting us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with the subject line "Do Not Share – California Resident".
 
 ---
 
 ## 5. Data Retention
 
-- Local data** (game progress, settings) remains on your device until you delete the App. **Deleting the App wipes all local data permanently.**
+- **Local data** (game progress, settings) remains on your device until you delete the App. **Deleting the App wipes all local data permanently.**
 - **Ad-related data** is retained by our ad partners (Section 2.2) **according to each partner's own published retention schedule**. We do not control or have visibility into these schedules; please refer to each partner's privacy policy for specifics.
 - **No data is stored on our servers** because we do not operate any servers for user data.
 
@@ -108,9 +108,9 @@ Universal rights — available to **all users**:
 
 - **Reset ATT permission** at any time in iOS Settings → Privacy & Security → Tracking → ColorCargo
 - **Delete all local data** by uninstalling the App
-- **Report inappropriate ads via Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) inside the App (Apple App Store Guideline 2.5.18)
-- Contact us with privacy questions at [onuragames@gmail.com](mailto:onuragames@gmail.com) — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)
-- Request information from ad partners** directly. Because ColorCargo holds **no personal data about you on its own servers**, requests for access, deletion, correction, or portability of *ad-related* data must be exercised against each network using the privacy-policy links in Section 2.2.
+- **Report inappropriate ads** via Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) inside the App (Apple App Store Guideline 2.5.18)
+- **Contact us** with privacy questions at [onuragames@gmail.com](mailto:onuragames@gmail.com) — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)
+- **Request information from ad partners** directly. Because ColorCargo holds **no personal data about you on its own servers**, requests for access, deletion, correction, or portability of *ad-related* data must be exercised against each network using the privacy-policy links in Section 2.2.
 
 ### 6.1 Regional Privacy Rights
 
@@ -124,11 +124,11 @@ If you reside in the EEA, the UK, or Switzerland, you have the right to:
 - **Restrict** or **object** to certain types of processing
 - **Data portability** (where applicable and technically feasible)
 - **Withdraw consent** at any time, without affecting the lawfulness of processing carried out before withdrawal
-- **Lodge a complaint with your local data protection authority (for the UK: the [ICO](https://ico.org.uk/); for Ireland: the [DPC](https://www.dataprotection.ie/); for other Member States: see the [EDPB list](https://edpb.europa.eu/about-edpb/about-edpb/members_en))
+- **Lodge a complaint** with your local data protection authority (for the UK: the [ICO](https://ico.org.uk/); for Ireland: the [DPC](https://www.dataprotection.ie/); for other Member States: see the [EDPB list](https://edpb.europa.eu/about-edpb/about-edpb/members_en))
 
-Because ColorCargo holds no personal data on its own backend, most of these rights are exercised against the ad networks listed in Section 2.2, who act as data controllers (or joint controllers) for the data they collect. Contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) for assistance navigating these requests.
+Because ColorCargo holds no personal data on its own backend, most of these rights are exercised **against the ad networks listed in Section 2.2**, who act as data controllers (or joint controllers) for the data they collect. Contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) for assistance navigating these requests.
 
-We will respond to verifiable requests within 30 days** (extendable by 60 additional days where permitted by GDPR Article 12).
+We will respond to verifiable requests within **30 days** (extendable by 60 additional days where permitted by GDPR Article 12).
 
 **California (CCPA / CPRA):**
 
@@ -155,11 +155,11 @@ If you reside in Türkiye, KVKK Article 11 grants you the rights to:
 - **Request that any correction, erasure, or destruction be communicated to third parties to whom your data has been transferred**
 - Object to results arising solely from automated systems
 - Demand compensation for damages caused by unlawful processing
-- Lodge a complaint with the **Personal Data Protection Authority via [kvkk.gov.tr](https://www.kvkk.gov.tr/)
+- Lodge a complaint with the **Personal Data Protection Authority** via [kvkk.gov.tr](https://www.kvkk.gov.tr/)
 
 Contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) to exercise these rights.
 
-Other regions:** If you reside in a jurisdiction with additional privacy rights (e.g., Brazil LGPD, Canada PIPEDA, Australia Privacy Act, India DPDP, China PIPL), comparable rights may apply. Contact us and we will respond in accordance with applicable law.
+**Other regions:** If you reside in a jurisdiction with additional privacy rights (e.g., Brazil LGPD, Canada PIPEDA, Australia Privacy Act, India DPDP, China PIPL), comparable rights may apply. Contact us and we will respond in accordance with applicable law.
 
 ---
 
@@ -188,7 +188,7 @@ We do not have access to any breach reporting mechanism, because we hold no pers
 
 ## 9. Changes to This Policy
 
-We may update this Privacy Policy as needed (e.g., when adding new ad networks, features, or legal sections). The **"Last Updated" date at the top of this document will reflect the most recent revision. Significant changes will be highlighted in the App's release notes on the App Store.
+We may update this Privacy Policy as needed (e.g., when adding new ad networks, features, or legal sections). The **"Last Updated"** date at the top of this document will reflect the most recent revision. Significant changes will be highlighted in the App's release notes on the App Store.
 
 Your continued use of the App after such updates constitutes acceptance of the revised Policy.
 
@@ -206,7 +206,7 @@ We aim to respond within a reasonable timeframe, and within the statutory deadli
 
 ## 11. Governing Law
 
-This Privacy Policy is governed by the laws of the Republic of Türkiye**, without regard to conflict of laws principles. Nothing in this Policy limits any mandatory consumer-protection or data-protection rights granted to you under the law of your country of residence.
+This Privacy Policy is governed by the laws of the **Republic of Türkiye**, without regard to conflict of laws principles. Nothing in this Policy limits any mandatory consumer-protection or data-protection rights granted to you under the law of your country of residence.
 
 ---
 
@@ -214,5 +214,5 @@ This Privacy Policy is governed by the laws of the Republic of Türkiye**, witho
 
 - **App:** ColorCargo
 - **Developer:** Onur Akçakavak
-- **Contact: [onuragames@gmail.com](mailto:onuragames@gmail.com)
-- Effective Date:** June 1, 2026
+- **Contact:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
+- **Effective Date:** June 1, 2026
