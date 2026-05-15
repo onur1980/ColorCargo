@@ -1,0 +1,9 @@
+title: ColorCargo Legal
+description: Privacy Policy, Terms of Service, About — ColorCargo iOS Game
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
