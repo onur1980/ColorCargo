@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** May 13, 2026
+**Last Updated:** May 17, 2026
 
 ---
 
@@ -20,7 +20,7 @@ For our Terms of Service, see [Terms of Service](terms.html).
 
 ### 2.1 Data we collect directly
 
-ColorCargo collects **minimal data** from you. The following is **Data Not Linked to Your Identity** (Apple App Privacy terminology) and remains on your device only:
+ColorCargo collects **minimal data** from you. The following is **Data Not Linked to Your Identity** (Apple App Privacy terminology) and is stored on your device. Where noted, limited in-app purchase data may also sync across your devices through Apple's iCloud — Apple-operated and never transmitted to our servers:
 
 - **Game progress**: Your current level, total moves, completed levels (stored locally on your device using iOS UserDefaults; **never transmitted to our servers**).
 - **Sound preferences**: Whether you have toggled sounds on/off (stored locally).
@@ -30,13 +30,15 @@ We **do not** collect: name, email, phone number, photos, contacts, location, he
 
 **In-app purchases** (where offered) are processed entirely by **Apple via StoreKit**. The App receives, **on device only**, the **transaction status** (success or failure) and the **product identifier** of what you purchased; we **never receive your payment card details, billing address, or any Apple ID credentials**, and this information is **not transmitted to any server we operate**. See [Terms of Service](terms.html) Section 5 for the terms governing purchases.
 
+Your **skip-ticket balance** (a consumable purchase) may be stored on your device and, when iCloud is enabled, synced across your devices via **Apple's iCloud Key-Value Store**; **Remove Ads** is a non-consumable entitlement managed by Apple through StoreKit.
+
 ### 2.2 Data collected by third-party advertising networks
 
 ColorCargo displays advertisements provided by **third-party ad networks** through the **Unity LevelPlay** mediation platform. These networks may collect the following categories, which align with Apple's App Privacy Details labels:
 
 - **Identifiers** — Advertising Identifier (IDFA, only if you grant ATT permission), Identifier for Vendor (IDFV), and other device IDs as permitted by Apple
 - **Device Information** — device model, iOS version, screen size, system language, timezone, mobile carrier (where exposed)
-- **Coarse Location** — derived from IP address for geographic ad targeting and fraud prevention; not precise GPS
+- **Approximate Location** — ad partners may derive your approximate location from your IP address for geographic ad targeting and fraud prevention. ColorCargo itself requests no location permission and does not access device GPS. Advertising partners participating in the IAB TCF may request precise geolocation consent in the consent form; you can decline it. Because the App does not request location permission, it does not provide GPS-level location data to advertising partners through the App.
 - **Usage Data** — ad interaction events (impressions, clicks, view completions, skip events, dwell time)
 - **Diagnostics** — crash and performance data internal to each ad SDK
 
@@ -55,9 +57,18 @@ On iOS 14.5 and later, you will see a system prompt asking whether ColorCargo (a
 - **If you grant ATT permission:** ad networks may use your IDFA to deliver personalized advertising.
 - **If you deny ATT permission (or it is restricted by parental controls):** the IDFA is **not** made available to us or to our ad partners. We do **not** use device fingerprinting or any other indirect method to track you across other companies' apps and websites. The App continues to work fully; ads still appear, but they are **contextual or non-personalized** rather than tailored to you.
 
-### 2.4 European users — additional consent
+### 2.4 European users — advertising consent choices
 
-If you access the App from the **European Economic Area (EEA), the United Kingdom, or Switzerland**, our ad partners may, in addition to ATT, present an additional consent prompt (for example, an IAB Transparency & Consent Framework string) to comply with the GDPR / UK GDPR / ePrivacy Directive. If you do not grant the additional consent, **non-personalized contextual advertising** will be served.
+If you access the App from the **European Economic Area (EEA), the United Kingdom, or Switzerland**, and advertising is shown, the App uses **Google's User Messaging Platform (UMP)** — a consent-management tool compatible with the **IAB Transparency & Consent Framework (TCF)** — to request and manage advertising consent where required by the GDPR, UK GDPR, and the ePrivacy Directive.
+
+- **If you consent:** our ad partners may use your data — including, with your separate ATT permission, your advertising identifier (IDFA) — to deliver personalized advertising.
+- **If you do not consent:** advertising may be **non-personalized, limited, or unavailable**, depending on partner availability. The App remains fully playable in all cases.
+
+Some partners may rely on consent or legitimate interests where permitted; you can review and manage these choices in the privacy options form.
+
+This advertising consent is **separate from, and in addition to, Apple's App Tracking Transparency prompt** (Section 2.3); depending on your choices, both may apply.
+
+You can **review or change your advertising consent at any time** from **Settings → Privacy Choices** inside the App, which reopens the Google UMP privacy options form. This option is shown to users in the EEA, the UK, and Switzerland.
 
 ---
 
@@ -94,7 +105,7 @@ We do **not sell your personal information for monetary compensation**. Under th
 
 ## 5. Data Retention
 
-- **Local data** (game progress, settings) remains on your device until you delete the App. **Deleting the App wipes all local data permanently.**
+- **Local data** (game progress, settings) remains on your device until you delete the App. **Deleting the App wipes all local data permanently.** When iCloud is enabled, your **skip-ticket balance** may also sync across your devices through Apple's iCloud.
 - **Ad-related data** is retained by our ad partners (Section 2.2) **according to each partner's own published retention schedule**. We do not control or have visibility into these schedules; please refer to each partner's privacy policy for specifics.
 - **No data is stored on our servers** because we do not operate any servers for user data.
 
