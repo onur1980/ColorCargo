@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** May 17, 2026
+**Last Updated:** May 31, 2026
 
 ---
 
@@ -34,7 +34,7 @@ Your **skip-ticket balance** (a consumable purchase) may be stored on your devic
 
 ### 2.2 Data collected by third-party advertising networks
 
-ColorCargo displays advertisements provided by **third-party ad networks** through the **Unity LevelPlay** mediation platform. These networks may collect the following categories, which align with Apple's App Privacy Details labels:
+ColorCargo displays advertisements provided by **third-party ad networks** through the **Unity LevelPlay** mediation platform. **Google AdMob / Google Mobile Ads** may participate as an active bidding, ad-serving, and measurement partner through the LevelPlay AdMob adapter where enabled in our mediation configuration. These networks may collect the following categories, which align with Apple's App Privacy Details labels:
 
 - **Identifiers** — Advertising Identifier (IDFA, only if you grant ATT permission), Identifier for Vendor (IDFV), and other device IDs as permitted by Apple
 - **Device Information** — device model, iOS version, screen size, system language, timezone, mobile carrier (where exposed)
@@ -42,11 +42,12 @@ ColorCargo displays advertisements provided by **third-party ad networks** throu
 - **Usage Data** — ad interaction events (impressions, clicks, view completions, skip events, dwell time)
 - **Diagnostics** — crash and performance data internal to each ad SDK
 
-The ad mediation platform integrated at launch is listed below. **Unity LevelPlay** serves advertisements from Unity's own demand sources (including the **ironSource Exchange**) and may include additional partner networks where enabled. **Additional ad networks may be enabled in future updates**; if so, this Privacy Policy will be revised and the change highlighted in the App's release notes. Active partners at any given time are determined by our **mediation configuration and bundled SDKs**; the `SKAdNetworkIdentifiers` entries in our `Info.plist` record the **broader set of attribution partners** we are registered with at Apple to support potential future activations.
+The ad mediation platform and active ad-serving or bidding partners currently integrated or enabled are listed below. **Unity LevelPlay** serves advertisements from Unity's own demand sources (including the **ironSource Exchange**) and may include additional partner networks where enabled. **Google AdMob / Google Mobile Ads** may serve, bid on, or measure ads through the LevelPlay AdMob adapter and Google Mobile Ads SDK where enabled. **Additional ad networks may be enabled in future updates**; if so, this Privacy Policy will be revised and the change highlighted in the App's release notes. Active partners at any given time are determined by our **mediation configuration and bundled SDKs**; the `SKAdNetworkIdentifiers` entries in our `Info.plist` record the **broader set of attribution partners** we are registered with at Apple to support potential future activations.
 
-| Ad mediation platform | Privacy Policy |
+| Ad mediation / ad-serving partner | Privacy Policy |
 |---|---|
 | Unity LevelPlay (Unity Technologies) | [unity.com/legal/game-player-and-app-user-privacy-policy](https://unity.com/legal/game-player-and-app-user-privacy-policy) |
+| Google AdMob / Google Mobile Ads (Google LLC) | [policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) and [policies.google.com/privacy](https://policies.google.com/privacy) |
 
 Apple's [SKAdNetwork](https://developer.apple.com/documentation/storekit/skadnetwork) framework is used for privacy-preserving ad attribution. Where supported, [SKAN 4 postbacks](https://developer.apple.com/documentation/storekit/skadnetwork/receiving_ad_attributions_and_postbacks) replace device-level tracking with crowd-anonymized signals.
 
@@ -57,9 +58,9 @@ On iOS 14.5 and later, you will see a system prompt asking whether ColorCargo (a
 - **If you grant ATT permission:** ad networks may use your IDFA to deliver personalized advertising.
 - **If you deny ATT permission (or it is restricted by parental controls):** the IDFA is **not** made available to us or to our ad partners. We do **not** use device fingerprinting or any other indirect method to track you across other companies' apps and websites. The App continues to work fully; ads still appear, but they are **contextual or non-personalized** rather than tailored to you.
 
-### 2.4 European users — advertising consent choices
+### 2.4 Regional advertising consent and privacy choices
 
-If you access the App from the **European Economic Area (EEA), the United Kingdom, or Switzerland**, and advertising is shown, the App uses **Google's User Messaging Platform (UMP)** — a consent-management tool compatible with the **IAB Transparency & Consent Framework (TCF)** — to request and manage advertising consent where required by the GDPR, UK GDPR, and the ePrivacy Directive.
+If you access the App from a region where an advertising consent or privacy-choice message is required or configured, the App uses **Google's User Messaging Platform (UMP)** to request and manage the applicable choices. This may include consent choices for the **European Economic Area (EEA), the United Kingdom, and Switzerland** under the GDPR, UK GDPR, Swiss FADP, and the ePrivacy Directive, and privacy choices for **supported US states** where applicable.
 
 - **If you consent:** our ad partners may use your data — including, with your separate ATT permission, your advertising identifier (IDFA) — to deliver personalized advertising.
 - **If you do not consent:** advertising may be **non-personalized, limited, or unavailable**, depending on partner availability. The App remains fully playable in all cases.
@@ -68,7 +69,7 @@ Some partners may rely on consent or legitimate interests where permitted; you c
 
 This advertising consent is **separate from, and in addition to, Apple's App Tracking Transparency prompt** (Section 2.3); depending on your choices, both may apply.
 
-You can **review or change your advertising consent at any time** from **Settings → Privacy Choices** inside the App, which reopens the Google UMP privacy options form. This option is shown to users in the EEA, the UK, and Switzerland.
+You can **review or change your advertising consent or privacy choices at any time** from **Settings → Privacy Choices** inside the App, which reopens the Google UMP privacy options form when available. This option is shown when UMP reports that a privacy options entry point is required, including for EEA, UK, Switzerland, and supported US state privacy choices where applicable.
 
 ---
 
@@ -89,7 +90,7 @@ We do **not** profile users for purposes beyond basic ad targeting. We do **not*
 
 Data is shared only with:
 
-- **Ad partners and mediation platform** (Section 2.2) — strictly limited to the data needed for ad serving, attribution, and fraud prevention. We require our ad partners and the Unity LevelPlay mediation platform, through applicable SDK and platform terms, **to handle your data consistent with this Privacy Policy, Apple App Store Review Guidelines (in particular guideline 5.1.1), and applicable privacy laws (GDPR, UK GDPR, CCPA/CPRA, COPPA, KVKK, and similar regional frameworks)**.
+- **Ad partners and mediation/ad-serving platforms** (Section 2.2) — strictly limited to the data needed for ad serving, bidding, attribution, measurement, and fraud prevention. We require our ad partners, including **Unity LevelPlay**, **Google AdMob / Google Mobile Ads**, and active ad technology partners, through applicable SDK and platform terms, **to handle your data consistent with this Privacy Policy, Apple App Store Review Guidelines (in particular guideline 5.1.1), and applicable privacy laws (GDPR, UK GDPR, Swiss FADP, CCPA/CPRA, COPPA, KVKK, and similar regional frameworks)**.
 - **Apple** — for SKAdNetwork attribution and standard iOS diagnostics that you control in iOS Settings → Privacy.
 
 We do **not** share data with: data brokers, social-media platforms (unless you initiate sharing yourself, for example by screenshotting), generative-AI service providers, or any other third party.
@@ -98,8 +99,9 @@ We do **not** share data with: data brokers, social-media platforms (unless you 
 
 We do **not sell your personal information for monetary compensation**. Under the California Consumer Privacy Act (CCPA) and California Privacy Rights Act (CPRA), our disclosure of limited device and ad-interaction data to ad partners for cross-context behavioral advertising may qualify as "sharing." You can opt out of this "sharing" at any time by:
 
-1. **Denying the App Tracking Transparency prompt** when shown, or revoking it later in iOS Settings → Privacy & Security → Tracking → ColorCargo, **or**
-2. Contacting us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with the subject line "Do Not Share – California Resident".
+1. **Denying the App Tracking Transparency prompt** when shown, or revoking it later in iOS Settings → Privacy & Security → Tracking → ColorCargo,
+2. Using **Settings → Privacy Choices** inside the App where this option is shown for your region, or
+3. Contacting us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with the subject line "Do Not Share – California Resident".
 
 ---
 
@@ -118,6 +120,7 @@ In addition to the universal rights below, residents of certain regions have add
 Universal rights — available to **all users**:
 
 - **Reset ATT permission** at any time in iOS Settings → Privacy & Security → Tracking → ColorCargo
+- **Review or change advertising consent/privacy choices** via Settings → Privacy Choices where shown, including EEA, UK, Switzerland, and supported US state privacy choices where applicable
 - **Delete all local data** by uninstalling the App
 - **Report inappropriate ads** via Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) inside the App (Apple App Store Guideline 2.5.18)
 - **Contact us** with privacy questions at [onuragames@gmail.com](mailto:onuragames@gmail.com) — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)

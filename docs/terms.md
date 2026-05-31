@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last Updated:** May 17, 2026
+**Last Updated:** May 31, 2026
 
 ---
 
@@ -40,7 +40,7 @@ Violation may result in suspension or termination of your license to use the App
 
 ## 4. Advertisements
 
-The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. You may opt out of personalized ad tracking via Apple's App Tracking Transparency (ATT) — see the [Privacy Policy](privacy.html) for details. If you use the App in the European Economic Area, the United Kingdom, or Switzerland, you will also be asked for advertising consent through an in-app consent prompt, and you can change that choice at any time via Settings → Privacy Choices.
+The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. Ads may be served, mediated, bid on, or measured through third-party ad and mediation partners, including **Unity LevelPlay** and **Google AdMob / Google Mobile Ads where enabled. These partners may process limited device, advertising, usage, diagnostics, and approximate-location data as described in the [Privacy Policy](privacy.html). You may opt out of personalized ad tracking via Apple's App Tracking Transparency (ATT). Depending on your region, you may also be presented with advertising consent or privacy choices through Google UMP; where Settings → Privacy Choices** is shown, you can review or change those choices at any time.
 
 If you encounter an inappropriate or age-inappropriate ad, please use the [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) function in Settings (Apple App Store Guideline 2.5.18).
 

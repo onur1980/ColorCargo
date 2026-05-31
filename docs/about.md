@@ -25,7 +25,7 @@ A color-matching puzzle game where you deliver tiles to same-color rings, one mo
 
 - **Game design & development:** Onur Akçakavak
 - **Built with:** Apple SpriteKit
-- **Ad mediation:** Unity LevelPlay
+- **Ad mediation:** Unity LevelPlay with Google AdMob bidding where enabled
 
 ---
 
@@ -36,6 +36,8 @@ The following third-party SDKs are integrated into ColorCargo. They are distribu
 - **Unity LevelPlay** — distributed under the Unity Technologies Terms of Service.
 - **Unity Ad Quality** — distributed under the Unity Technologies Terms of Service.
 - **Google User Messaging Platform** — used to present and manage advertising privacy choices; subject to Google's applicable SDK/API terms.
+- **Google Mobile Ads SDK / Google AdMob** — used to request, serve, bid on, and measure ads where enabled; subject to Google's applicable SDK/API terms and policies.
+- **LevelPlay AdMob Adapter** — used to connect Google AdMob demand to Unity LevelPlay mediation where enabled; subject to Unity and Google's applicable terms.
 
 ---
 
