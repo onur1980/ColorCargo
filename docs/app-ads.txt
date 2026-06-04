@@ -1,0 +1,17 @@
+# ColorCargo app-ads.txt — IAB Tech Lab Authorized Sellers for Apps
+#
+# Plan v3.2 Task #3 (2026-06-04, Onur explicit consent: "sadece app-ads.txt
+# /privacy URL işi yapılsın, iOS repo kuralını bozmadan").
+#
+# Spec: https://iabtechlab.com/wp-content/uploads/2019/03/app-ads.txt-v1.0-final-.pdf
+# AdMob guide: https://support.google.com/admob/answer/9363762
+#
+# Doğrulama akışı:
+# 1. Play Console > Developer info > Website URL =
+#    https://onur1980.github.io/ColorCargo/
+# 2. AdMob > Apps > ColorCargo > app-ads.txt status → 24h crawl bekle
+# 3. Crawl başarılı = developer URL'in path'i app-ads.txt için yeterli.
+#    Başarısız (404 / eTLD+1 mismatch) = Plan B (onur1980.github.io
+#    user-site repo aç + app-ads.txt root'a koy).
+
+google.com, pub-9351855829245392, DIRECT, f08c47fec0942fa0
