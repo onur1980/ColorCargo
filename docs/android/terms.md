@@ -64,7 +64,7 @@ The App, including all game design, source code, graphics, level layouts, charac
 
 **Gameplay content sharing:** You retain rights to gameplay screenshots, recordings, and live streams you create. You may share such content publicly — including on monetized platforms such as YouTube, TikTok, Twitch, Instagram, and similar services — **provided that you do not (i) misleadingly present the content as official, (ii) infringe third-party rights, or (iii) use ColorCargo branding to imply endorsement of unrelated products**. Attribution to "ColorCargo" is appreciated but not required.
 
-If you believe content in or related to the App infringes your intellectual property, contact us at **onuragames@gmail.com** with sufficient detail for us to investigate.
+If you believe content in or related to the App infringes your intellectual property, contact us at **[onuragames@gmail.com](mailto:onuragames@gmail.com)** with sufficient detail for us to investigate.
 
 ---
 
@@ -173,7 +173,7 @@ The **United Nations Convention on Contracts for the International Sale of Goods
 
 Questions about these Terms? Contact us at:
 
-**onuragames@gmail.com**
+**[onuragames@gmail.com](mailto:onuragames@gmail.com)**
 
 ---
 
@@ -181,5 +181,5 @@ Questions about these Terms? Contact us at:
 
 - **App:** ColorCargo
 - **Developer:** Onur Akçakavak
-- **Contact:** onuragames@gmail.com
+- **Contact:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
 - **Effective Date:** June 6, 2026
