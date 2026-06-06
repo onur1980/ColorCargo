@@ -10,7 +10,7 @@ By downloading, installing, or using **ColorCargo** ("the App", "we", "us"), you
 
 These Terms operate **alongside the Google Play Terms of Service** and any other applicable Google Play policies. To the extent of any conflict regarding distribution through the Google Play Store, parental controls, or in-app purchases processed through **Google Play Billing**, the applicable Google Play terms control.
 
-You also acknowledge that you have read and understood our [Privacy Policy](colorcargo://privacy) (also available in Settings → Privacy Policy), which is incorporated by reference into these Terms.
+You also acknowledge that you have read and understood our [Privacy Policy](privacy.html) (also available in Settings → Privacy Policy), which is incorporated by reference into these Terms.
 
 ---
 
@@ -40,9 +40,9 @@ Violation may result in suspension or termination of your license to use the App
 
 ## 4. Advertisements
 
-The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. Ads may be served, mediated, bid on, or measured through third-party ad and mediation partners, including **Unity LevelPlay** and **Google AdMob / Google Mobile Ads** where enabled. These partners may process limited device, advertising, usage, diagnostics, and approximate-location data as described in the [Privacy Policy](colorcargo://privacy). You can manage personalized ad tracking via your **Android Advertising ID and ad personalization settings** (Android Settings → Privacy → Ads, and [adssettings.google.com](https://adssettings.google.com/)). Depending on your region, you may also be presented with advertising consent or privacy choices through Google UMP; where **Settings → Privacy Choices** is shown, you can review or change those choices at any time.
+The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. Ads may be served, mediated, bid on, or measured through third-party ad and mediation partners, including **Unity LevelPlay** and **Google AdMob / Google Mobile Ads** where enabled. These partners may process limited device, advertising, usage, diagnostics, and approximate-location data as described in the [Privacy Policy](privacy.html). You can manage personalized ad tracking via your **Android Advertising ID and ad personalization settings** (Android Settings → Privacy → Ads, and [adssettings.google.com](https://adssettings.google.com/)). Depending on your region, you may also be presented with advertising consent or privacy choices through Google UMP; where **Settings → Privacy Choices** is shown, you can review or change those choices at any time.
 
-If you encounter an inappropriate or age-inappropriate ad, please use the **[Report Ad](colorcargo://report-ad)** function in Settings.
+If you encounter an inappropriate or age-inappropriate ad, please use the **[Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21)** function in Settings.
 
 ---
 
@@ -50,7 +50,7 @@ If you encounter an inappropriate or age-inappropriate ad, please use the **[Rep
 
 The App is **free to download**. It may offer **optional in-app purchases** for non-essential conveniences — for example, **removing advertisements** or **skipping difficult levels**. Where in-app purchases are available, the following terms apply:
 
-- All purchases are processed **exclusively through Google Play Billing**. We do **not** collect, store, or process your payment card data ourselves — see [Privacy Policy](colorcargo://privacy) Section 2 for what is (and is not) received from Google Play.
+- All purchases are processed **exclusively through Google Play Billing**. We do **not** collect, store, or process your payment card data ourselves — see [Privacy Policy](privacy.html) Section 2 for what is (and is not) received from Google Play.
 - **Skip Tickets** are consumable items. After they are purchased and consumed through Google Play Billing, the ticket balance is stored locally on the device. Ticket balances may be carried over to a new device through Android Auto Backup or device transfer when you sign in with the same Google account and restore a previous backup; this is **not guaranteed**, is **not real-time cross-device sync**, and if app data is cleared, the App is uninstalled, Android backup is unavailable, or no relevant backup is restored, the ticket balance may be limited to or lost from the current device.
 - All purchases are **final and non-refundable** except as required by **Google Play's published refund policies**, mandatory consumer-protection laws, or applicable Google Play cancellation/refund provisions.
 - A **"Restore Purchases"** function is available in Settings for restorable purchases, where applicable. On Android, this is implemented by querying your Google Play purchase history through the **Google Play Billing Library**. This function can restore permanent/non-consumable purchases such as **Remove Ads**, but it does not by itself restore previously consumed **Skip Tickets** or locally stored ticket balances unless those local balances are restored by Android/device backup.
@@ -112,7 +112,7 @@ Sections that by their nature should survive termination (Intellectual Property,
 
 ## 10. Children and Parental Consent
 
-ColorCargo is designed as a **general-audience puzzle game** and is intended to meet a **general-audience content rating (Everyone / 3+)** in the Google Play Store. It is **not primarily directed to children under 13** (see [Privacy Policy](colorcargo://privacy) Section 7).
+ColorCargo is designed as a **general-audience puzzle game** and is intended to meet a **general-audience content rating (Everyone / 3+)** in the Google Play Store. It is **not primarily directed to children under 13** (see [Privacy Policy](privacy.html) Section 7).
 
 If you are a **minor** under the age of majority in your jurisdiction, you may use the App **only with the consent of a parent or legal guardian**, and your parent or guardian accepts these Terms on your behalf.
 
@@ -147,7 +147,7 @@ We may **assign** these Terms and our rights and obligations under them — in w
 
 ## 14. Entire Agreement
 
-These Terms, **together with the [Privacy Policy](colorcargo://privacy)** and the **Google Play Terms of Service** (and any other applicable Google Play terms), constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
+These Terms, **together with the [Privacy Policy](privacy.html)** and the **Google Play Terms of Service** (and any other applicable Google Play terms), constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
 
 Our failure to enforce any right or provision of these Terms is not a waiver of that right or provision.
 

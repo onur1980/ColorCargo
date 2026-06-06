@@ -12,7 +12,7 @@ ColorCargo is **intended for a general-audience content rating** in the Google P
 
 This Privacy Policy is reflected in the **Google Play Data safety** section on our Google Play store listing. We strive to keep both consistent.
 
-For our Terms of Service, see [Terms of Service](colorcargo://terms).
+For our Terms of Service, see [Terms of Service](terms.html).
 
 ---
 
@@ -28,7 +28,7 @@ ColorCargo collects **minimal data** from you. The following is **Data Not Linke
 
 We **do not** collect: name, email, phone number, photos, contacts, location, health data, financial information, or any account credentials.
 
-**In-app purchases** (where offered) are processed entirely by **Google Play Billing**. The App receives, **on device only**, limited purchase information such as the **transaction status** (success or failure), the **product identifier** of what you purchased, and the **purchase token / entitlement state** required to deliver the content; we **never receive your payment card details, billing address, or any Google account credentials**, and this information is **not transmitted to any server we operate**. See [Terms of Service](colorcargo://terms) Section 5 for the terms governing purchases.
+**In-app purchases** (where offered) are processed entirely by **Google Play Billing**. The App receives, **on device only**, limited purchase information such as the **transaction status** (success or failure), the **product identifier** of what you purchased, and the **purchase token / entitlement state** required to deliver the content; we **never receive your payment card details, billing address, or any Google account credentials**, and this information is **not transmitted to any server we operate**. See [Terms of Service](terms.html) Section 5 for the terms governing purchases.
 
 Your **skip-ticket balance** (a consumable purchase) is stored on your device and may be **carried over to a new device through Android Auto Backup or device transfer** — for example, when you sign in with the same Google account during initial setup and Android restores a previous backup. **This is not real-time cross-device sync**; it is a reinstall / device-transfer / backup-restore mechanism, and the balance reflects whichever device most recently wrote a backup. **Remove Ads** is a non-consumable entitlement managed by **Google Play Billing**.
 
@@ -122,7 +122,7 @@ Universal rights — available to **all users**:
 - **Reset or delete your Advertising ID** at any time via **Android Settings → Privacy → Ads**, and manage Google ad personalization at [adssettings.google.com](https://adssettings.google.com/)
 - **Review or change advertising consent/privacy choices** via Settings → Privacy Choices where shown, including EEA, UK, Switzerland, and supported US state privacy choices where applicable
 - **Delete all local data** by uninstalling the App
-- **Report inappropriate ads** via Settings → [Report Ad](colorcargo://report-ad) inside the App (consistent with the Google Play Families Policy and ad-network requirements)
+- **Report inappropriate ads** via Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) inside the App (consistent with the Google Play Families Policy and ad-network requirements)
 - **Contact us** with privacy questions at **[onuragames@gmail.com](mailto:onuragames@gmail.com)** — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)
 - **Request information from ad partners** directly. Because ColorCargo holds **no personal data about you on its own servers**, requests for access, deletion, correction, or portability of *ad-related* data must be exercised against each network using the privacy-policy links in Section 2.2.
 
@@ -183,7 +183,7 @@ ColorCargo is **intended for a general-audience content rating** in the Google P
 
 If we learn that personal information of a child under 13 has been inadvertently collected through one of our ad partners, we will work with the relevant network to delete or disable such information and, where required, to apply non-behavioral (contextual) advertising for that user.
 
-Ads delivered via our mediation platform are required by the **Google Play Developer Program Policies and our agreements with each ad network** to be appropriate for the App's general-audience rating. Inappropriate ads may still slip through occasionally; please use **Settings → [Report Ad](colorcargo://report-ad)** to flag them, or email **[onuragames@gmail.com](mailto:onuragames@gmail.com)**.
+Ads delivered via our mediation platform are required by the **Google Play Developer Program Policies and our agreements with each ad network** to be appropriate for the App's general-audience rating. Inappropriate ads may still slip through occasionally; please use **Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21)** to flag them, or email **[onuragames@gmail.com](mailto:onuragames@gmail.com)**.
 
 Parents and guardians can disable behavioral advertising for their household via **Android device parental controls, the Family Link app, and the device's content & privacy restrictions**, and by **resetting or deleting the Advertising ID** in Android Settings → Privacy → Ads.
 
