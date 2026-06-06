@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated:** June 1, 2026
+**Last Updated:** June 6, 2026
 
 ---
 
@@ -12,7 +12,7 @@ ColorCargo is **intended for a general-audience content rating** in the Google P
 
 This Privacy Policy is reflected in the **Google Play Data safety** section on our Google Play store listing. We strive to keep both consistent.
 
-For our Terms of Service, see [Terms of Service](terms.html).
+For our Terms of Service, see [Terms of Service](colorcargo://terms).
 
 ---
 
@@ -28,13 +28,13 @@ ColorCargo collects **minimal data** from you. The following is **Data Not Linke
 
 We **do not** collect: name, email, phone number, photos, contacts, location, health data, financial information, or any account credentials.
 
-**In-app purchases** (where offered) are processed entirely by **Google Play Billing**. The App receives, **on device only**, limited purchase information such as the **transaction status** (success or failure), the **product identifier** of what you purchased, and the **purchase token / entitlement state** required to deliver the content; we **never receive your payment card details, billing address, or any Google account credentials**, and this information is **not transmitted to any server we operate**. See [Terms of Service](terms.html) Section 5 for the terms governing purchases.
+**In-app purchases** (where offered) are processed entirely by **Google Play Billing**. The App receives, **on device only**, limited purchase information such as the **transaction status** (success or failure), the **product identifier** of what you purchased, and the **purchase token / entitlement state** required to deliver the content; we **never receive your payment card details, billing address, or any Google account credentials**, and this information is **not transmitted to any server we operate**. See [Terms of Service](colorcargo://terms) Section 5 for the terms governing purchases.
 
 Your **skip-ticket balance** (a consumable purchase) is stored on your device and may be **carried over to a new device through Android Auto Backup or device transfer** — for example, when you sign in with the same Google account during initial setup and Android restores a previous backup. **This is not real-time cross-device sync**; it is a reinstall / device-transfer / backup-restore mechanism, and the balance reflects whichever device most recently wrote a backup. **Remove Ads** is a non-consumable entitlement managed by **Google Play Billing**.
 
 ### 2.2 Data collected by third-party advertising networks
 
-ColorCargo displays advertisements provided by **third-party ad networks** through the **Unity LevelPlay** mediation platform. **Google AdMob / Google Mobile Ads** may participate as an active bidding, ad-serving, and measurement partner through the LevelPlay AdMob adapter where enabled in our mediation configuration. These networks may collect the following categories, which align with the **Google Play Data safety** categories:
+ColorCargo displays advertisements provided by **third-party ad networks** through the **Unity LevelPlay** mediation platform. **Google AdMob / Google Mobile Ads** may participate as an active bidding, ad-serving, and measurement partner through the LevelPlay AdMob Adapter where enabled in our mediation configuration. These networks may collect the following categories, which align with the **Google Play Data safety** categories:
 
 - **Identifiers** — **Advertising ID (AAID)**, subject to your **Android ad personalization settings** and the regional privacy choices described in Section 2.4, and other device IDs as permitted by Android / Google Play
 - **Device Information** — device model, **Android version**, screen size, system language, timezone, mobile carrier (where exposed)
@@ -42,7 +42,7 @@ ColorCargo displays advertisements provided by **third-party ad networks** throu
 - **Usage Data** — ad interaction events (impressions, clicks, view completions, skip events, dwell time)
 - **Diagnostics** — crash and performance data internal to each ad SDK
 
-The ad mediation platform and active ad-serving or bidding partners currently integrated or enabled are listed below. **Unity LevelPlay** serves advertisements from Unity's own demand sources (including the **ironSource Exchange**) and may include additional partner networks where enabled. **Google AdMob / Google Mobile Ads** may serve, bid on, or measure ads through the LevelPlay AdMob adapter and **Google Mobile Ads SDK** where enabled. **Additional ad networks may be enabled in future updates**; if so, this Privacy Policy will be revised and the change highlighted in the App's release notes. Active partners at any given time are determined by our **mediation configuration and bundled SDKs**.
+The ad mediation platform and active ad-serving or bidding partners currently integrated or enabled are listed below. **Unity LevelPlay** serves advertisements from Unity's own demand sources (including the **ironSource Exchange**) and may include additional partner networks where enabled. **Google AdMob / Google Mobile Ads** may serve, bid on, or measure ads through the LevelPlay AdMob Adapter and **Google Mobile Ads SDK** where enabled. **Additional ad networks may be enabled in future updates**; if so, this Privacy Policy will be revised and the change highlighted in the App's release notes. Active partners at any given time are determined by our **mediation configuration and bundled SDKs**.
 
 | Ad mediation / ad-serving partner | Privacy Policy |
 |---|---|
@@ -60,7 +60,7 @@ On Android, ColorCargo does **not** display a separate per-app tracking prompt �
 
 ### 2.4 Regional advertising consent and privacy choices
 
-If you access the App from a region where an advertising consent or privacy-choice message is required or configured, the App uses **Google's User Messaging Platform (UMP)** to request and manage the applicable choices. This may include consent choices for the **European Economic Area (EEA), the United Kingdom, and Switzerland** under the GDPR, UK GDPR, Swiss FADP, and the ePrivacy Directive, and privacy choices for **supported US states** where applicable.
+If you access the App from a region where an advertising consent or privacy-choice message is required or configured, the App uses **Google User Messaging Platform (UMP)** to request and manage the applicable choices. This may include consent choices for the **European Economic Area (EEA), the United Kingdom, and Switzerland** under the GDPR, UK GDPR, Swiss FADP, and the ePrivacy Directive, and privacy choices for **supported US states** where applicable.
 
 - **If you consent:** our ad partners may use your data — including, subject to your Android ad personalization settings, your Advertising ID (AAID) — to deliver personalized advertising.
 - **If you do not consent:** advertising may be **non-personalized, limited, or unavailable**, depending on partner availability. The App remains fully playable in all cases.
@@ -101,7 +101,7 @@ We do **not sell your personal information for monetary compensation**. Under th
 
 1. Using **Settings → Privacy Choices** inside the App where this option is shown for your region,
 2. Resetting or deleting your **Advertising ID** in **Android Settings → Privacy → Ads** and adjusting your Google ad personalization at [adssettings.google.com](https://adssettings.google.com/), or
-3. Contacting us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with the subject line "Do Not Share – California Resident".
+3. Contacting us at **onuragames@gmail.com** with the subject line "Do Not Share – California Resident".
 
 ---
 
@@ -122,8 +122,8 @@ Universal rights — available to **all users**:
 - **Reset or delete your Advertising ID** at any time via **Android Settings → Privacy → Ads**, and manage Google ad personalization at [adssettings.google.com](https://adssettings.google.com/)
 - **Review or change advertising consent/privacy choices** via Settings → Privacy Choices where shown, including EEA, UK, Switzerland, and supported US state privacy choices where applicable
 - **Delete all local data** by uninstalling the App
-- **Report inappropriate ads** via Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) inside the App (consistent with the Google Play Families Policy and ad-network requirements)
-- **Contact us** with privacy questions at [onuragames@gmail.com](mailto:onuragames@gmail.com) — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)
+- **Report inappropriate ads** via Settings → [Report Ad](colorcargo://report-ad) inside the App (consistent with the Google Play Families Policy and ad-network requirements)
+- **Contact us** with privacy questions at **onuragames@gmail.com** — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)
 - **Request information from ad partners** directly. Because ColorCargo holds **no personal data about you on its own servers**, requests for access, deletion, correction, or portability of *ad-related* data must be exercised against each network using the privacy-policy links in Section 2.2.
 
 ### 6.1 Regional Privacy Rights
@@ -140,7 +140,7 @@ If you reside in the EEA, the UK, or Switzerland, you have the right to:
 - **Withdraw consent** at any time, without affecting the lawfulness of processing carried out before withdrawal
 - **Lodge a complaint** with your local data protection authority (for the UK: the [ICO](https://ico.org.uk/); for Ireland: the [DPC](https://www.dataprotection.ie/); for other Member States: see the [EDPB list](https://edpb.europa.eu/about-edpb/about-edpb/members_en))
 
-Because ColorCargo holds no personal data on its own backend, most of these rights are exercised **against the ad networks listed in Section 2.2**, who act as data controllers (or joint controllers) for the data they collect. Contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) for assistance navigating these requests.
+Because ColorCargo holds no personal data on its own backend, most of these rights are exercised **against the ad networks listed in Section 2.2**, who act as data controllers (or joint controllers) for the data they collect. Contact us at **onuragames@gmail.com** for assistance navigating these requests.
 
 We will respond to verifiable requests within **30 days** (extendable by 60 additional days where permitted by GDPR Article 12).
 
@@ -171,7 +171,7 @@ If you reside in Türkiye, KVKK Article 11 grants you the rights to:
 - Demand compensation for damages caused by unlawful processing
 - Lodge a complaint with the **Personal Data Protection Authority** via [kvkk.gov.tr](https://www.kvkk.gov.tr/)
 
-Contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) to exercise these rights.
+Contact us at **onuragames@gmail.com** to exercise these rights.
 
 **Other regions:** If you reside in a jurisdiction with additional privacy rights (e.g., Brazil LGPD, Canada PIPEDA, Australia Privacy Act, India DPDP, China PIPL), comparable rights may apply. Contact us and we will respond in accordance with applicable law.
 
@@ -183,9 +183,9 @@ ColorCargo is **intended for a general-audience content rating** in the Google P
 
 If we learn that personal information of a child under 13 has been inadvertently collected through one of our ad partners, we will work with the relevant network to delete or disable such information and, where required, to apply non-behavioral (contextual) advertising for that user.
 
-Ads delivered via our mediation platform are required by the **Google Play Developer Program Policies and our agreements with each ad network** to be appropriate for the App's general-audience rating. Inappropriate ads may still slip through occasionally; please use **Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21)** to flag them, or email [onuragames@gmail.com](mailto:onuragames@gmail.com).
+Ads delivered via our mediation platform are required by the **Google Play Developer Program Policies and our agreements with each ad network** to be appropriate for the App's general-audience rating. Inappropriate ads may still slip through occasionally; please use **Settings → [Report Ad](colorcargo://report-ad)** to flag them, or email **onuragames@gmail.com**.
 
-Parents and guardians can disable behavioral advertising for their household via **Android device parental controls, Google Play Family Link, and the device's content & privacy restrictions**, and by **resetting or deleting the Advertising ID** in Android Settings → Privacy → Ads.
+Parents and guardians can disable behavioral advertising for their household via **Android device parental controls, the Family Link app, and the device's content & privacy restrictions**, and by **resetting or deleting the Advertising ID** in Android Settings → Privacy → Ads.
 
 ---
 
@@ -212,7 +212,7 @@ Your continued use of the App after such updates constitutes acceptance of the r
 
 Questions, concerns, or rights requests? Contact us at:
 
-[onuragames@gmail.com](mailto:onuragames@gmail.com)
+**onuragames@gmail.com**
 
 We aim to respond within a reasonable timeframe, and within the statutory deadlines set out in Section 6.1 where they apply.
 
@@ -228,5 +228,5 @@ This Privacy Policy is governed by the laws of the **Republic of Türkiye**, wit
 
 - **App:** ColorCargo
 - **Developer:** Onur Akçakavak
-- **Contact:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
-- **Effective Date:** June 1, 2026
+- **Contact:** onuragames@gmail.com
+- **Effective Date:** June 6, 2026
