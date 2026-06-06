@@ -6,7 +6,7 @@ A color-matching puzzle game where you deliver tiles to same-color rings, one mo
 
 ---
 
-**Version 1.0 (1)**
+**Version {{VERSION_SHORT}} ({{VERSION_BUILD}})**
 
 **Developer:** Onur Akçakavak
 **Support:** [onuragames@gmail.com](mailto:onuragames@gmail.com)
@@ -15,9 +15,9 @@ A color-matching puzzle game where you deliver tiles to same-color rings, one mo
 
 ## Legal
 
-- [Privacy Policy](privacy.html)
-- [Terms of Service](terms.html)
-- [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21)
+- [Privacy Policy](colorcargo://privacy)
+- [Terms of Service](colorcargo://terms)
+- [Report Ad](colorcargo://report-ad)
 
 ---
 
