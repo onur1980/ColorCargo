@@ -42,7 +42,7 @@ Violation may result in suspension or termination of your license to use the App
 
 The App is **free to use** and is supported by third-party advertisements. By using the App, you acknowledge that ads may be displayed during gameplay (e.g., between levels), unless you have purchased an official **Remove Ads** upgrade or ads are otherwise disabled. Ads may be served, mediated, bid on, or measured through third-party ad and mediation partners, including **Unity LevelPlay** and **Google AdMob / Google Mobile Ads** where enabled. These partners may process limited device, advertising, usage, diagnostics, and approximate-location data as described in the [Privacy Policy](privacy.html). You can manage personalized ad tracking via your **Android Advertising ID and ad personalization settings** (Android Settings → Privacy → Ads, and [adssettings.google.com](https://adssettings.google.com/)). Depending on your region, you may also be presented with advertising consent or privacy choices through Google UMP; where **Settings → Privacy Choices** is shown, you can review or change those choices at any time.
 
-If you encounter an inappropriate or age-inappropriate ad, please use the **[Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21)** function in Settings.
+If you encounter an inappropriate or age-inappropriate ad, please use the [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) function in Settings.
 
 ---
 
@@ -64,7 +64,7 @@ The App, including all game design, source code, graphics, level layouts, charac
 
 **Gameplay content sharing:** You retain rights to gameplay screenshots, recordings, and live streams you create. You may share such content publicly — including on monetized platforms such as YouTube, TikTok, Twitch, Instagram, and similar services — **provided that you do not (i) misleadingly present the content as official, (ii) infringe third-party rights, or (iii) use ColorCargo branding to imply endorsement of unrelated products**. Attribution to "ColorCargo" is appreciated but not required.
 
-If you believe content in or related to the App infringes your intellectual property, contact us at **[onuragames@gmail.com](mailto:onuragames@gmail.com)** with sufficient detail for us to investigate.
+If you believe content in or related to the App infringes your intellectual property, contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with sufficient detail for us to investigate.
 
 ---
 
@@ -147,7 +147,7 @@ We may **assign** these Terms and our rights and obligations under them — in w
 
 ## 14. Entire Agreement
 
-These Terms, **together with the [Privacy Policy](privacy.html)** and the **Google Play Terms of Service** (and any other applicable Google Play terms), constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
+These Terms, together with the [Privacy Policy](privacy.html) and the **Google Play Terms of Service** (and any other applicable Google Play terms), constitute the **entire agreement** between you and **Onur Akçakavak** regarding the App, and supersede any prior or contemporaneous understandings, agreements, representations, or warranties (whether written or oral) regarding the subject matter.
 
 Our failure to enforce any right or provision of these Terms is not a waiver of that right or provision.
 
@@ -173,7 +173,7 @@ The **United Nations Convention on Contracts for the International Sale of Goods
 
 Questions about these Terms? Contact us at:
 
-**[onuragames@gmail.com](mailto:onuragames@gmail.com)**
+[onuragames@gmail.com](mailto:onuragames@gmail.com)
 
 ---
 

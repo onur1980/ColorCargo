@@ -101,7 +101,7 @@ We do **not sell your personal information for monetary compensation**. Under th
 
 1. Using **Settings → Privacy Choices** inside the App where this option is shown for your region,
 2. Resetting or deleting your **Advertising ID** in **Android Settings → Privacy → Ads** and adjusting your Google ad personalization at [adssettings.google.com](https://adssettings.google.com/), or
-3. Contacting us at **[onuragames@gmail.com](mailto:onuragames@gmail.com)** with the subject line "Do Not Share – California Resident".
+3. Contacting us at [onuragames@gmail.com](mailto:onuragames@gmail.com) with the subject line "Do Not Share – California Resident".
 
 ---
 
@@ -123,7 +123,7 @@ Universal rights — available to **all users**:
 - **Review or change advertising consent/privacy choices** via Settings → Privacy Choices where shown, including EEA, UK, Switzerland, and supported US state privacy choices where applicable
 - **Delete all local data** by uninstalling the App
 - **Report inappropriate ads** via Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) inside the App (consistent with the Google Play Families Policy and ad-network requirements)
-- **Contact us** with privacy questions at **[onuragames@gmail.com](mailto:onuragames@gmail.com)** — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)
+- **Contact us** with privacy questions at [onuragames@gmail.com](mailto:onuragames@gmail.com) — we will respond within a reasonable timeframe (and within statutory deadlines where applicable; see Section 6.1)
 - **Request information from ad partners** directly. Because ColorCargo holds **no personal data about you on its own servers**, requests for access, deletion, correction, or portability of *ad-related* data must be exercised against each network using the privacy-policy links in Section 2.2.
 
 ### 6.1 Regional Privacy Rights
@@ -140,7 +140,7 @@ If you reside in the EEA, the UK, or Switzerland, you have the right to:
 - **Withdraw consent** at any time, without affecting the lawfulness of processing carried out before withdrawal
 - **Lodge a complaint** with your local data protection authority (for the UK: the [ICO](https://ico.org.uk/); for Ireland: the [DPC](https://www.dataprotection.ie/); for other Member States: see the [EDPB list](https://edpb.europa.eu/about-edpb/about-edpb/members_en))
 
-Because ColorCargo holds no personal data on its own backend, most of these rights are exercised **against the ad networks listed in Section 2.2**, who act as data controllers (or joint controllers) for the data they collect. Contact us at **[onuragames@gmail.com](mailto:onuragames@gmail.com)** for assistance navigating these requests.
+Because ColorCargo holds no personal data on its own backend, most of these rights are exercised **against the ad networks listed in Section 2.2**, who act as data controllers (or joint controllers) for the data they collect. Contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) for assistance navigating these requests.
 
 We will respond to verifiable requests within **30 days** (extendable by 60 additional days where permitted by GDPR Article 12).
 
@@ -171,7 +171,7 @@ If you reside in Türkiye, KVKK Article 11 grants you the rights to:
 - Demand compensation for damages caused by unlawful processing
 - Lodge a complaint with the **Personal Data Protection Authority** via [kvkk.gov.tr](https://www.kvkk.gov.tr/)
 
-Contact us at **[onuragames@gmail.com](mailto:onuragames@gmail.com)** to exercise these rights.
+Contact us at [onuragames@gmail.com](mailto:onuragames@gmail.com) to exercise these rights.
 
 **Other regions:** If you reside in a jurisdiction with additional privacy rights (e.g., Brazil LGPD, Canada PIPEDA, Australia Privacy Act, India DPDP, China PIPL), comparable rights may apply. Contact us and we will respond in accordance with applicable law.
 
@@ -183,7 +183,7 @@ ColorCargo is **intended for a general-audience content rating** in the Google P
 
 If we learn that personal information of a child under 13 has been inadvertently collected through one of our ad partners, we will work with the relevant network to delete or disable such information and, where required, to apply non-behavioral (contextual) advertising for that user.
 
-Ads delivered via our mediation platform are required by the **Google Play Developer Program Policies and our agreements with each ad network** to be appropriate for the App's general-audience rating. Inappropriate ads may still slip through occasionally; please use **Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21)** to flag them, or email **[onuragames@gmail.com](mailto:onuragames@gmail.com)**.
+Ads delivered via our mediation platform are required by the **Google Play Developer Program Policies and our agreements with each ad network** to be appropriate for the App's general-audience rating. Inappropriate ads may still slip through occasionally; please use Settings → [Report Ad](mailto:onuragames@gmail.com?subject=ColorCargo%20%E2%80%94%20Report%20an%20Ad&body=Hi%20%E2%80%94%20please%20describe%20the%20ad%20you%27d%20like%20to%20report%20above.%20A%20screenshot%20helps%20if%20possible.%20Thanks%21) to flag them, or email [onuragames@gmail.com](mailto:onuragames@gmail.com).
 
 Parents and guardians can disable behavioral advertising for their household via **Android device parental controls, the Family Link app, and the device's content & privacy restrictions**, and by **resetting or deleting the Advertising ID** in Android Settings → Privacy → Ads.
 
@@ -212,7 +212,7 @@ Your continued use of the App after such updates constitutes acceptance of the r
 
 Questions, concerns, or rights requests? Contact us at:
 
-**[onuragames@gmail.com](mailto:onuragames@gmail.com)**
+[onuragames@gmail.com](mailto:onuragames@gmail.com)
 
 We aim to respond within a reasonable timeframe, and within the statutory deadlines set out in Section 6.1 where they apply.
 
